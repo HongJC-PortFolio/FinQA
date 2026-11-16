@@ -1,0 +1,139 @@
+﻿qid,finqa_id,question,removed_text,remaining_table,reviewer1,reviewer2
+E003,DXC/2018/page_56.pdf-2,in fiscal 2018 what percentage of total costs and expenses was selling general and administrative ( excludes depreciation and amortization and restructuring costs ) ?,"[table_2] selling general and administrative ( excludes depreciation and amortization and restructuring costs ) | 2010 | 1279 | 1059 | 8.2 | 16.8 | 14.9
+[table_8] total costs and expenses | $ 22885 | $ 7781 | $ 7096 | 93.2% ( 93.2 % ) | 102.3% ( 102.3 % ) | 99.9% ( 99.9 % )","[table_0] ( in millions ): fiscal years ended march 31 2018 | fiscal years ended march 31 2017 ( 1 ) | fiscal years ended april 1 2016 ( 1 ) | fiscal years ended 2018 | fiscal years ended 2017 ( 1 ) | 2016 ( 1 )
+[table_1] costs of services ( excludes depreciation and amortization and restructuring costs ): $ 17944 | $ 5545 | $ 5185 | 73.0% ( 73.0 % ) | 72.9% ( 72.9 % ) | 73.0% ( 73.0 % )
+[table_3] depreciation and amortization: 1964 | 647 | 658 | 8.0 | 8.5 | 9.3
+[table_4] restructuring costs: 803 | 238 | 23 | 3.3 | 3.1 | 0.3
+[table_5] interest expense net: 246 | 82 | 85 | 1.0 | 1.1 | 1.2
+[table_6] debt extinguishment costs: — | — | 95 | — | — | 1.3
+[table_7] other income net: -82 ( 82 ) | -10 ( 10 ) | -9 ( 9 ) | -0.3 ( 0.3 ) | -0.1 ( 0.1 ) | -0.1 ( 0.1 )",,
+E005,FIS/2006/page_31.pdf-2,what portion of the total leased locations are located in united states?,"[text_10] we also lease approximately 81 locations outside the united states .
+[table_8] other | 63","[table_0] state: number of locations ( 1 )
+[table_1] california: 57
+[table_2] florida: 26
+[table_3] georgia: 22
+[table_4] texas: 19
+[table_5] minnesota new york: 9
+[table_6] illinois ohio maryland: 8
+[table_7] pennsylvania: 7",,
+E007,UA/2011/page_69.pdf-1,what was the percentage decrease in the weighted average interest rates on outstanding borrowings from 2010 to 2011,"[text_11] no balances were outstanding under the prior revolving credit facility during the year ended december 31 , 2010 .
+[text_20] the weighted average interest rates on outstanding borrowings were 3.5% ( 3.5 % ) , 5.3% ( 5.3 % ) and 5.9% ( 5.9 % ) for the years ended december 31 , 2011 , 2010 and 2009 , respectively .","[table_0] 2012: $ 6882
+[table_1] 2013 ( 1 ): 65919
+[table_2] 2014: 2972
+[table_3] 2015: 1951
+[table_4] 2016: —
+[table_5] total scheduled maturities of long term debt: 77724
+[table_6] less current maturities of long term debt: -6882 ( 6882 )
+[table_7] long term debt obligations: $ 70842",,
+E013,ILMN/2008/page_82.pdf-1,during 2008 what was the share price of the warrants exercised\\n,"[text_2] during the year ended december 28 , 2008 , there were 401362 warrants exercised , resulting in cash proceeds to the company of $ 3.0 million .","[table_0] number of shares: exercise price | expiration date
+[table_1] 238510: $ 7.27 | 4/25/2010
+[table_2] 864040: $ 7.27 | 7/12/2010
+[table_3] 809246: $ 10.91 | 11/23/2010
+[table_4] 1125734: $ 10.91 | 1/19/2011
+[table_5] 18322320 ( 1 ): $ 31.44 | 2/15/2014
+[table_6] 21359850:  | ",,
+E021,RSG/2016/page_135.pdf-1,based on the 2016 actual asset allocation what was the debt to equity ratio,"[table_1] debt securities | 72% ( 72 % ) | 72% ( 72 % ) | 72% ( 72 % )
+[table_2] equity securities | 28 | 28 | 28","[table_0] : targetassetallocation | 2016actualassetallocation | 2015actualassetallocation
+[table_3] total: 100% ( 100 % ) | 100% ( 100 % ) | 100% ( 100 % )",,
+E023,RCL/2012/page_75.pdf-3,what was the percentage increase in port costs from 2010 to 2012,"[text_23] the amounts of such port costs included in passenger ticket revenues on a gross basis were $ 459.8 million , $ 442.9 million and $ 398.0 million for the years 2012 , 2011 and 2010 , respectively .","[table_0] : years
+[table_1] ships: 30
+[table_2] ship improvements: 3-20
+[table_3] buildings and improvements: 10-40
+[table_4] computer hardware and software: 3-5
+[table_5] transportation equipment and other: 3-30
+[table_6] leasehold improvements: shorter of remaining lease term or useful life 3-30",,
+E030,ANET/2015/page_156.pdf-2,what is the current portion of the present value of lease obligations?,"[table_10] present value of obligation | 42546
+[table_11] less current portion | -1336 ( 1336 )","[table_0] 2016: $ 5754
+[table_1] 2017: 5933
+[table_2] 2018: 6113
+[table_3] 2019: 6293
+[table_4] 2020: 6477
+[table_5] thereafter: 18810
+[table_6] total payments: 49380
+[table_7] less : interest and land lease expense: -30463 ( 30463 )
+[table_8] total payments under facility financing obligations: 18917
+[table_9] property reverting to landlord: 23629
+[table_12] long-term portion of obligation: $ 41210",,
+E053,C/2015/page_96.pdf-3,"what was the difference in billions in net outflows from dec . 31 , 2014 to dec . 31 , 2015?",[table_2] net outflows | 336.5 | 355.6 | 368.6,"[table_0] in billions of dollars: dec . 31 2015 | sept . 30 2015 | dec . 31 2014
+[table_1] hqla: $ 378.5 | $ 398.9 | $ 412.6
+[table_3] lcr: 112% ( 112 % ) | 112% ( 112 % ) | 112% ( 112 % )
+[table_4] hqla in excess of net outflows: $ 42.0 | $ 43.3 | $ 44.0",,
+E056,LMT/2016/page_49.pdf-2,what are the total operating expenses for 2016?,"[table_1] net sales | $ 6608 | $ 6770 | $ 7092
+[table_2] operating profit | 1018 | 1282 | 1344","[table_0] : 2016 | 2015 | 2014
+[table_3] operating margin: 15.4% ( 15.4 % ) | 18.9% ( 18.9 % ) | 19.0% ( 19.0 % )
+[table_4] backlog atyear-end: $ 14700 | $ 15500 | $ 13300",,
+E057,SNA/2012/page_110.pdf-3,"what is the total fair value of the non-vested performance awards at beginning of year , ( in thousands ) ?",[table_1] non-vested performance awards at beginning of year | 707 | $ 48.87,"[table_0] : shares ( in thousands ) | fair valueprice pershare*
+[table_2] granted: 203 | 60.00
+[table_3] vested: -379 ( 379 ) | 41.01
+[table_4] cancellations and other: -22 ( 22 ) | 44.93
+[table_5] non-vested performance awards at end of year: 509 | 59.36",,
+E058,AON/2018/page_87.pdf-4,in 2018 what was the percent of the decline in the uncertain tax positions,"[table_1] balance at january 1 | $ 280 | $ 278
+[table_9] balance at december 31 | $ 279 | $ 280","[table_0] : 2018 | 2017
+[table_2] additions based on tax positions related to the current year: 18 | 25
+[table_3] additions for tax positions of prior years: 10 | 12
+[table_4] reductions for tax positions of prior years: -24 ( 24 ) | -26 ( 26 )
+[table_5] settlements: — | -6 ( 6 )
+[table_6] business combinations: 1 | —
+[table_7] lapse of statute of limitations: -6 ( 6 ) | -7 ( 7 )
+[table_8] foreign currency translation: — | 4",,
+E065,BKNG/2016/page_33.pdf-4,what was the percentage change in priceline group for the five year period ended 2016?,"[table_1] 2011 | 100.00 | 100.00 | 100.00 | 100.00
+[table_6] 2016 | 313.45 | 216.54 | 198.18 | 277.56","[table_0] measurement pointdecember 31: the priceline group inc . | nasdaqcomposite index | s&p 500index | rdg internetcomposite
+[table_2] 2012: 132.64 | 116.41 | 116.00 | 119.34
+[table_3] 2013: 248.53 | 165.47 | 153.58 | 195.83
+[table_4] 2014: 243.79 | 188.69 | 174.60 | 192.42
+[table_5] 2015: 272.59 | 200.32 | 177.01 | 264.96",,
+E072,JPM/2005/page_80.pdf-2,"for a 2% ( 2 % ) increase in interest rates , what would have been the total impact to earnings for 2005 and 2004 ( in millions ) ?","[table_1] december 31 2005 | $ 265 | $ 172 | $ -162 ( 162 )
+[table_2] december 31 2004 | -557 ( 557 ) | -164 ( 164 ) | -180 ( 180 )",[table_0] ( in millions ): immediate change in rates +200bp | immediate change in rates +100bp | immediate change in rates -100bp,,
+E074,DISCA/2011/page_49.pdf-1,"what was the percentage cumulative total shareholder return on disca from september 18 , 2008 to december 31 , 2011?",[table_1] disca | $ 102.53 | $ 222.09 | $ 301.96 | $ 296.67,"[table_0] : december 31 2008 | december 31 2009 | december 31 2010 | december 31 2011
+[table_2] discb: $ 78.53 | $ 162.82 | $ 225.95 | $ 217.56
+[table_3] disck: $ 83.69 | $ 165.75 | $ 229.31 | $ 235.63
+[table_4] s&p 500: $ 74.86 | $ 92.42 | $ 104.24 | $ 104.23
+[table_5] peer group: $ 68.79 | $ 100.70 | $ 121.35 | $ 138.19",,
+E079,BDX/2018/page_106.pdf-3,"what is the average of total other income from 2016-2018 , in millions?","[text_9] note 18 2014 supplemental financial information other income ( expense ) , net .
+[table_8] other income ( expense ) net | $ 318 | $ -57 ( 57 ) | $ 11","[table_0] ( millions of dollars ): 2018 | 2017 | 2016
+[table_1] losses on debt extinguishment ( a ): $ -16 ( 16 ) | $ -73 ( 73 ) | —
+[table_2] vyaire medical-related amounts ( b ): 288 | -3 ( 3 ) | —
+[table_3] other equity investment income: 8 | 3 | 8
+[table_4] losses on undesignated foreign exchange derivatives net: -14 ( 14 ) | -11 ( 11 ) | -3 ( 3 )
+[table_5] royalty income ( c ): 51 | — | —
+[table_6] gains on previously held investments ( d ): — | 24 | —
+[table_7] other: — | 3 | 7",,
+E086,AMT/2012/page_118.pdf-1,based on the final purchase price allocation what was the sum of the liabilities,"[table_5] current liabilities | -5536 ( 5536 ) | -5536 ( 5536 )
+[table_6] other non-current liabilities ( 5 ) | -38519 ( 38519 ) | -38519 ( 38519 )","[table_0] : final purchase price allocation ( 1 ) | preliminary purchase price allocation ( 2 )
+[table_1] current assets ( 3 ): $ 9922 | $ 9922
+[table_2] non-current assets: 71529 | 98047
+[table_3] property and equipment: 83539 | 86062
+[table_4] intangible assets ( 4 ): 368000 | 288000
+[table_7] fair value of net assets acquired: $ 488935 | $ 437976
+[table_8] goodwill ( 6 ): 96395 | 147459",,
+E088,AON/2015/page_96.pdf-2,what was the average aggregate intrinsic value of stock options exercised from 2013 to 2015,[table_1] aggregate intrinsic value of stock options exercised | $ 104 | $ 61 | $ 73,"[table_0] : 2015 | 2014 | 2013
+[table_2] cash received from the exercise of stock options: 40 | 38 | 61
+[table_3] tax benefit realized from the exercise of stock options: 36 | 16 | 15",,
+E089,GS/2013/page_126.pdf-1,what is the growth rate in total assets in 2013?,[table_6] total assets1 | $ 911507 | $ 938555,"[table_0] $ in millions: as of december 2013 | as of december 2012
+[table_1] total level 1 financial assets: $ 156030 | $ 190737
+[table_2] total level 2 financial assets: 499480 | 502293
+[table_3] total level 3 financial assets: 40013 | 47095
+[table_4] cash collateral and counterparty netting: -95350 ( 95350 ) | -101612 ( 101612 )
+[table_5] total financial assets at fair value: $ 600173 | $ 638513
+[table_7] total level 3 financial assets as a percentage of total assets: 4.4% ( 4.4 % ) | 5.0% ( 5.0 % )
+[table_8] total level 3 financial assets as a percentage of total financial assets at fair value: 6.7% ( 6.7 % ) | 7.4% ( 7.4 % )
+[table_9] total level 1 financialliabilities: $ 68412 | $ 65994
+[table_10] total level 2 financial liabilities: 300583 | 318764
+[table_11] total level 3 financial liabilities: 12046 | 25679
+[table_12] cash collateral and counterparty netting: -25868 ( 25868 ) | -32760 ( 32760 )
+[table_13] total financial liabilities at fair value: $ 355173 | $ 377677
+[table_14] total level 3 financial liabilities as a percentage of total financial liabilities at fairvalue: 3.4% ( 3.4 % ) | 6.8% ( 6.8 % )",,
+E091,AES/2002/page_128.pdf-3,what percentage of total future minimum lease commitments is due in 2003?,"[table_1] 2003 | $ 30 | $ 4
+[table_7] total | $ 169 | $ 14","[table_0] : total | discontinued operations
+[table_2] 2004: 20 | 4
+[table_3] 2005: 15 | 3
+[table_4] 2006: 11 | 1
+[table_5] 2007: 9 | 1
+[table_6] thereafter: 84 | 1",,
+E096,RSG/2013/page_123.pdf-2,what was the growth of the weighted-average estimated fair values of stock options granted from 2012 to 2013,"[text_10] we use historical data to estimate future option exercises , forfeitures ( at 3.0% ( 3.0 % ) for each of the periods presented ) and expected life of the options .
+[text_12] the weighted-average estimated fair values of stock options granted during the years ended december 31 , 2013 , 2012 and 2011 were $ 5.27 , $ 4.77 and $ 5.35 per option , respectively , which were calculated using the following weighted-average assumptions: .","[table_0] : 2013 | 2012 | 2011
+[table_1] expected volatility: 28.9% ( 28.9 % ) | 27.8% ( 27.8 % ) | 27.3% ( 27.3 % )
+[table_2] risk-free interest rate: 0.7% ( 0.7 % ) | 0.8% ( 0.8 % ) | 1.7% ( 1.7 % )
+[table_3] dividend yield: 3.2% ( 3.2 % ) | 3.2% ( 3.2 % ) | 2.7% ( 2.7 % )
+[table_4] expected life ( in years ): 4.5 | 4.5 | 4.4
+[table_5] contractual life ( in years ): 7.0 | 7.0 | 7.0",,
